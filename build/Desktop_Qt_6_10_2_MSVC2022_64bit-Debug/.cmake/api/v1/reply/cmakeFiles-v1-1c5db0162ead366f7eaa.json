@@ -1,0 +1,1153 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeEarlyPolicyHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtInstallPaths.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtFeature.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtFeatureCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicPluginHelpers_v2.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomCommonGenerationHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomCycloneDXHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomDocumentNamespaceHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomGenerationCycloneDXHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6Dependencies.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/FindWrapAtomic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateVersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreVersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeEarlyPolicyHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtInstallPaths.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtFeature.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtFeatureCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicPluginHelpers_v2.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomCommonGenerationHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomCycloneDXHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomDocumentNamespaceHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomGenerationCycloneDXHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/Qt6Dependencies.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "NetworkEngineLib/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/3.30.5/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindBoost.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost/BoostConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost/BoostConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_headers/boost_headers-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_headers/boost_headers-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_headers/boost_headers-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_json/boost_json-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_json/boost_json-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_assert/boost_assert-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_assert/boost_assert-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_config/boost_config-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_config/boost_config-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_config/boost_config-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_assert/boost_assert-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_container/boost_container-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_container/boost_container-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_intrusive/boost_intrusive-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_intrusive/boost_intrusive-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_move/boost_move-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_move/boost_move-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_move/boost_move-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_intrusive/boost_intrusive-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_container/boost_container-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_container/boost_container-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_container/boost_container-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_container_hash/boost_container_hash-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_container_hash/boost_container_hash-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_describe/boost_describe-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_describe/boost_describe-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_mp11/boost_mp11-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_mp11/boost_mp11-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_mp11/boost_mp11-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_describe/boost_describe-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_container_hash/boost_container_hash-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_core/boost_core-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_core/boost_core-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_throw_exception/boost_throw_exception-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_throw_exception/boost_throw_exception-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_throw_exception/boost_throw_exception-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_core/boost_core-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_endian/boost_endian-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_endian/boost_endian-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_endian/boost_endian-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_system/boost_system-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_system/boost_system-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_variant2/boost_variant2-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_variant2/boost_variant2-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_variant2/boost_variant2-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_winapi/boost_winapi-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_winapi/boost_winapi-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_predef/boost_predef-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_predef/boost_predef-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_predef/boost_predef-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_winapi/boost_winapi-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_system/boost_system-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_json/boost_json-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_json/boost_json-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/boost_json/boost_json-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/openssl/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/util/vcpkg/installed/x64-windows/share/openssl/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindOpenSSL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "TradeLogic/CMakeLists.txt"
+		},
+		{
+			"path" : "BackTester/CMakeLists.txt"
+		},
+		{
+			"path" : "TradeCenterConnector/CMakeLists.txt"
+		},
+		{
+			"path" : "DataManager/CMakeLists.txt"
+		},
+		{
+			"path" : "Util/CMakeLists.txt"
+		},
+		{
+			"path" : "MainApp/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug",
+		"source" : "C:/src/MMM"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

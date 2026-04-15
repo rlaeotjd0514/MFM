@@ -1,0 +1,244 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b62049b9b486bb6ced64.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "NetworkEngineLib",
+					"jsonFile" : "directory-NetworkEngineLib-Debug-7f4c47c258c7f126f2d1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "NetworkEngineLib",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "TradeLogic",
+					"jsonFile" : "directory-TradeLogic-Debug-dc1541591afaa637519a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TradeLogic"
+				},
+				{
+					"build" : "BackTester",
+					"jsonFile" : "directory-BackTester-Debug-375385b9a004888534a4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "BackTester"
+				},
+				{
+					"build" : "TradeCenterConnector",
+					"jsonFile" : "directory-TradeCenterConnector-Debug-8d9f233e545a1c42a2df.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "TradeCenterConnector"
+				},
+				{
+					"build" : "DataManager",
+					"jsonFile" : "directory-DataManager-Debug-44fde6a7559fe167e2c1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "DataManager"
+				},
+				{
+					"build" : "Util",
+					"jsonFile" : "directory-Util-Debug-0886e87680ba47df368e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Util"
+				},
+				{
+					"build" : "MainApp",
+					"jsonFile" : "directory-MainApp-Debug-aa90eccf6411a03c5b92.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MainApp"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"name" : "MMM",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "NetworkEngineLib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MMM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MMM-Debug-4fc5677e4cb9df3cab7e.json",
+					"name" : "MMM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MMM_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MMM_autogen-Debug-3307b4b5a70f78a86f40.json",
+					"name" : "MMM_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MMM_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MMM_autogen_timestamp_deps-Debug-9c584d2cf1a575f6d6d5.json",
+					"name" : "MMM_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NetworkEngineApp::@2b178800c302b103a2fe",
+					"jsonFile" : "target-NetworkEngineApp-Debug-656d13b46f41e461610d.json",
+					"name" : "NetworkEngineApp",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NetworkEngineApp_autogen::@2b178800c302b103a2fe",
+					"jsonFile" : "target-NetworkEngineApp_autogen-Debug-d3c2af3e88b7fefc0ee2.json",
+					"name" : "NetworkEngineApp_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NetworkEngineApp_autogen_timestamp_deps::@2b178800c302b103a2fe",
+					"jsonFile" : "target-NetworkEngineApp_autogen_timestamp_deps-Debug-d71e0acaebdbd71bba4f.json",
+					"name" : "NetworkEngineApp_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NetworkEngineLib::@2b178800c302b103a2fe",
+					"jsonFile" : "target-NetworkEngineLib-Debug-bc1aa20c57ebb73ead41.json",
+					"name" : "NetworkEngineLib",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NetworkEngineLib_autogen::@2b178800c302b103a2fe",
+					"jsonFile" : "target-NetworkEngineLib_autogen-Debug-22f77e2ff10d84a7994e.json",
+					"name" : "NetworkEngineLib_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NetworkEngineLib_autogen_timestamp_deps::@2b178800c302b103a2fe",
+					"jsonFile" : "target-NetworkEngineLib_autogen_timestamp_deps-Debug-08b946585cb0b8d866be.json",
+					"name" : "NetworkEngineLib_autogen_timestamp_deps",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug",
+		"source" : "C:/src/MMM"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

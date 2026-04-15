@@ -1,0 +1,8 @@
+set(__QT_DEPLOY_TARGET_NetworkEngineLib_FILE C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/NetworkEngineLib/NetworkEngineLib.lib)
+set(__QT_DEPLOY_TARGET_NetworkEngineLib_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_NetworkEngineApp_FILE C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/NetworkEngineLib/NetworkEngineApp.exe)
+set(__QT_DEPLOY_TARGET_NetworkEngineApp_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_NetworkEngineApp_RUNTIME_DLLS C:/util/vcpkg/installed/x64-windows/debug/bin/boost_json-vc143-mt-gd-x64-1_90.dll;C:/util/vcpkg/installed/x64-windows/debug/bin/boost_container-vc143-mt-gd-x64-1_90.dll)
+set(__QT_DEPLOY_TARGET_MMM_FILE C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/MMM.exe)
+set(__QT_DEPLOY_TARGET_MMM_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_MMM_RUNTIME_DLLS C:/Qt/6.10.2/msvc2022_64/bin/Qt6Cored.dll)

@@ -1,0 +1,23 @@
+# ninja log v6
+36	298	7979479557857483	NetworkEngineLib/NetworkEngineLib_autogen/timestamp	c5a4507ebc6aff6
+36	298	7979479557857483	C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/NetworkEngineLib/NetworkEngineLib_autogen/mocs_compilation.cpp	c5a4507ebc6aff6
+36	298	7979479557857483	NetworkEngineLib/NetworkEngineLib_autogen/mocs_compilation.cpp	c5a4507ebc6aff6
+36	298	7979479557857483	C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/NetworkEngineLib/NetworkEngineLib_autogen/timestamp	c5a4507ebc6aff6
+221	346	7979472928407029	NetworkEngineLib/CMakeFiles/NetworkEngineLib.dir/NetworkEngineLib_autogen/mocs_compilation.cpp.obj	11795709d21893b9
+6211	7305	7979479619634431	NetworkEngineLib/NetworkEngineApp.exe	23739be1aac61de6
+6280	6568	7979472990742386	NetworkEngineLib/NetworkEngineApp_autogen/timestamp	b4439e2802edfd00
+300	6071	7979479560560722	NetworkEngineLib/CMakeFiles/NetworkEngineLib.dir/src/NetworkEngine.cpp.obj	7218f9659d19ed23
+6071	6211	7979479618275732	NetworkEngineLib/NetworkEngineLib.lib	3fa92a3d6cf0d6c5
+2654	3709	7979479584097748	MMM.exe	30cff53687451f83
+6280	6568	7979472990742386	NetworkEngineLib/NetworkEngineApp_autogen/mocs_compilation.cpp	b4439e2802edfd00
+6280	6568	7979472990742386	C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/NetworkEngineLib/NetworkEngineApp_autogen/timestamp	b4439e2802edfd00
+6280	6568	7979472990742386	C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/NetworkEngineLib/NetworkEngineApp_autogen/mocs_compilation.cpp	b4439e2802edfd00
+374	1021	7979479561300796	CMakeFiles/MMM.dir/xingcore.cpp.obj	e22a2f3f9fa33314
+6569	6676	7979472991921755	NetworkEngineLib/CMakeFiles/NetworkEngineApp.dir/NetworkEngineApp_autogen/mocs_compilation.cpp.obj	6352fd9ad9e994cc
+6592	7175	7979472992139138	NetworkEngineLib/CMakeFiles/NetworkEngineApp.dir/src/main.cpp.obj	90de4e8644a22861
+58	343	7979479559633526	MMM_autogen/timestamp	9e4c6a2fdbeaddf4
+58	343	7979479559633526	MMM_autogen/mocs_compilation.cpp	9e4c6a2fdbeaddf4
+58	343	7979479559633526	C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/MMM_autogen/timestamp	9e4c6a2fdbeaddf4
+58	343	7979479559633526	C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/MMM_autogen/mocs_compilation.cpp	9e4c6a2fdbeaddf4
+345	729	7979479561013635	CMakeFiles/MMM.dir/MMM_autogen/mocs_compilation.cpp.obj	8442f21ec24a34c
+360	2653	7979479561126785	CMakeFiles/MMM.dir/main.cpp.obj	37054850be9db948
