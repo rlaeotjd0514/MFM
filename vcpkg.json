@@ -1,0 +1,11 @@
+{
+  "name": "mmm-trading-system",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "boost-json",
+    "boost-asio",
+    "boost-beast",
+    "boost-system",
+    "openssl"
+  ]
+}
