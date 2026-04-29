@@ -107,7 +107,15 @@
 	"CROSS_CONFIG" : false,
 	"DEP_FILE" : "C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/NetworkEngineLib/NetworkEngineLib_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "NetworkEngineLib_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"C:/src/MMM/NetworkEngineLib/include/NetworkEngine.hpp",
+			"MU",
+			"6YEA5652QU/moc_NetworkEngine.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/NetworkEngineLib/NetworkEngineLib_autogen/include",
 	"MOC_COMPILATION_FILE" : "C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/NetworkEngineLib/NetworkEngineLib_autogen/mocs_compilation.cpp",

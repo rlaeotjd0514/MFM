@@ -9,7 +9,7 @@ find_package(Boost REQUIRED COMPONENTS json)
 find_package(OpenSSL REQUIRED)
 
 # 2. 타겟 정의
-add_library(NetworkEngineLib STATIC src/NetworkEngine.cpp)
+add_library(NetworkEngineLib STATIC src/NetworkEngine.cpp include/NetworkEngine.hpp)
 add_executable(NetworkEngineApp src/main.cpp)
 
 # 3. 헤더 경로 설정 (격리 원칙 준수)

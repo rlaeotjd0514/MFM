@@ -54,7 +54,7 @@ void run_okx_perpetual_stream(const std::string& instId) {
         // 6. Subscribe Message (JSON)
         json::object subscribe_msg;
         subscribe_msg["op"] = "subscribe";
-        subscribe_msg["args"] = json::array{
+        subscribe_msg["args"] = json::array {
             {{"channel", "tickers"}, {"instId", instId}},
             {{"channel", "books5"}, {"instId", instId}}
         };
@@ -70,7 +70,6 @@ void run_okx_perpetual_stream(const std::string& instId) {
             json::object const& obj = jv.as_object();
             std::cout << raw_data << "\n";
 
-            continue;
             if (obj.contains("event")) continue;
 
             if (obj.contains("arg") && obj.contains("data")) {

@@ -14,6 +14,15 @@
 # EXTERNAL cache entries
 ########################
 
+//Value Computed by CMake
+BackTester_BINARY_DIR:STATIC=C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/BackTester
+
+//Value Computed by CMake
+BackTester_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+BackTester_SOURCE_DIR:STATIC=C:/src/MMM/BackTester
+
 //The directory containing a CMake configuration file for Boost.
 Boost_DIR:PATH=C:/util/vcpkg/installed/x64-windows/share/boost
 
@@ -183,11 +192,12 @@ CMAKE_MODULE_LINKER_FLAGS_RELEASE:STRING=/INCREMENTAL:NO
 // RELWITHDEBINFO builds.
 CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO:STRING=/debug /INCREMENTAL
 
+CMAKE_MODULE_PATH:STRING=C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6;C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/3rdparty/extra-cmake-modules/find-modules;C:/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6/3rdparty/kwin
+
 //Path to a program.
 CMAKE_MT:FILEPATH=C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64/mt.exe
 
-//No help, variable specified on the command line.
-CMAKE_PREFIX_PATH:PATH=C:/Qt/6.10.2/msvc2022_64
+CMAKE_PREFIX_PATH:STRING=C:/util/vcpkg/installed/x64-windows/debug;C:/util/vcpkg/installed/x64-windows;C:/Qt/6.10.2/msvc2022_64
 
 //Value Computed by CMake
 CMAKE_PROJECT_DESCRIPTION:STATIC=
@@ -266,8 +276,7 @@ CMAKE_STATIC_LINKER_FLAGS_RELEASE:STRING=
 // during RELWITHDEBINFO builds.
 CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 
-//The CMake toolchain file
-CMAKE_TOOLCHAIN_FILE:FILEPATH=C:/util/vcpkg/scripts/buildsystems/vcpkg.cmake
+CMAKE_TOOLCHAIN_FILE:PATH=C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/vcpkg-dependencies/toolchain.cmake
 
 //If this value is on, makefiles will be generated without the
 // .SILENT directive, and all commands will be echoed to the console
@@ -318,6 +327,9 @@ QT_CREATOR_ENABLE_MAINTENANCE_TOOL_PROVIDER:BOOL=ON
 //No help, variable specified on the command line.
 QT_CREATOR_ENABLE_PACKAGE_MANAGER_SETUP:BOOL=ON
 
+//Skip Qt Creator's vcpkg package manager auto-setup
+QT_CREATOR_SKIP_VCPKG_SETUP:BOOL=OFF
+
 //Qt Creator source groups extensions
 QT_CREATOR_SOURCE_GROUPS:BOOL=ON
 
@@ -347,6 +359,24 @@ SSL_EAY_DEBUG:FILEPATH=C:/util/vcpkg/installed/x64-windows/debug/lib/libssl.lib
 
 //Path to a library.
 SSL_EAY_RELEASE:FILEPATH=C:/util/vcpkg/installed/x64-windows/lib/libssl.lib
+
+//Value Computed by CMake
+TradeCenterConnector_BINARY_DIR:STATIC=C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/TradeCenterConnector
+
+//Value Computed by CMake
+TradeCenterConnector_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+TradeCenterConnector_SOURCE_DIR:STATIC=C:/src/MMM/TradeCenterConnector
+
+//Value Computed by CMake
+Utils_BINARY_DIR:STATIC=C:/src/MMM/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/Util
+
+//Value Computed by CMake
+Utils_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Utils_SOURCE_DIR:STATIC=C:/src/MMM/Util
 
 //Automatically copy dependencies into the output directory for
 // executables.
@@ -453,6 +483,9 @@ boost_variant2_DIR:PATH=C:/util/vcpkg/installed/x64-windows/share/boost_variant2
 
 //The directory containing a CMake configuration file for boost_winapi.
 boost_winapi_DIR:PATH=C:/util/vcpkg/installed/x64-windows/share/boost_winapi
+
+//Path to a program.
+vcpkg_program:FILEPATH=C:/Program Files/Microsoft Visual Studio/2022/Community/VC/vcpkg/vcpkg.exe
 
 
 ########################

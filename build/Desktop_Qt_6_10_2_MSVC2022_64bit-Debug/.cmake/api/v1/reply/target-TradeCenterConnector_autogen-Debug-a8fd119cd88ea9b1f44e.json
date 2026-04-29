@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"TradeCenterConnector/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "TradeCenterConnector_autogen_timestamp_deps::@8f5d0e83b8c9977a6f2e"
+		}
+	],
+	"id" : "TradeCenterConnector_autogen::@8f5d0e83b8c9977a6f2e",
+	"isGeneratorProvided" : true,
+	"name" : "TradeCenterConnector_autogen",
+	"paths" : 
+	{
+		"build" : "TradeCenterConnector",
+		"source" : "TradeCenterConnector"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/TradeCenterConnector/CMakeFiles/TradeCenterConnector_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/TradeCenterConnector/CMakeFiles/TradeCenterConnector_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/TradeCenterConnector/TradeCenterConnector_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
