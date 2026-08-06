@@ -19,4 +19,5 @@ C++로 트레이딩 시스템의 구조를 직접 설계해보기 위한 개인 
 C++17 / CMake / vcpkg / Qt6
 
 ## 진행 예정
-- (여기에 로드맵)
+ - Deribit API연결 및 OI / IV / IV Skew / Max Pain 지표 생성 확인
+ - EMA / VWAP을 직접 계산하는것과 받는 것 2개 시도해보고 둘 중 효과적인 것 고르기
